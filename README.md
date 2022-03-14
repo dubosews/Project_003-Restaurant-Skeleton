@@ -1,0 +1,2 @@
+# Project_003-Resturant-Skeleton
+A resturant pickup ordering application, built as a skeleton that can be taken and modified to be applicable for many different resturants. Including a user facing portion, where customers can interact with the menu, place orders and check out reviews about the resturant. Also included will be an "administrative" dashboard where the active orders can be viewed, modified, and completed.
