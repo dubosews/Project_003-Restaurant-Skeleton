@@ -10,6 +10,13 @@ const recipeSchema = new Schema({
     maxlength: 280,
     trim: true,
   },
+  recipeInstructions: {
+    type: String,
+    required: 'You need to leave instructions!',
+    minlength: 1,
+    maxlength: 1000,
+    trim: true,
+  },
   createdBy: {
     type: String,
     required: true,
